@@ -7,5 +7,5 @@ It is targeted toward business leaders focused on **sustainability**, enabling t
 GreenLens was developed with a team during a 5-day Data Challenge hosted at the Sun Life head office, where the project earned **1st place overall** and the **Cleanest Code** award from two Sun Life judges. The platform was also selected to be presented at a Sun Life–hosted innovation showcase.
 
 > 🎥 **Demo Video:**  
-> [▶️ Watch on Google Drive](https://drive.google.com/file/d/1XFj9hdYEUdpIjDLatGbz_XdBOgfz4QYo/view?usp=drive_link)
+> [▶️ Watch on Google Drive](https://drive.google.com/file/d/1jCC3rpK18sAK5Y1f67LR3uDVRKjlvSoB/view?usp=drive_link)
 
